@@ -80,7 +80,7 @@ const App = () => {
             <input
               type="text"
               placeholder="Enter Your Name"
-              name="fName"
+              name="fname"
               onChange={inputEvent}
               value={fullName.fname}
             />
@@ -88,7 +88,7 @@ const App = () => {
             <input
               type="text"
               placeholder="Enter Your Last Name"
-              name="lName"
+              name="lname"
               onChange={inputEvent}
               value={fullName.lname}
             />
