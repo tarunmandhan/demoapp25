@@ -23,7 +23,7 @@ const App = () => {
       return {
         ...preValue,
         [name]: value,
-        // ↓code simplify into 2 ↑ line of code using spread operator 😎
+        // ↓code simplify into 2 ↑ line of code using spread operator😎
       };
 
       // this part of code is verify the name of input feild and set value there place
